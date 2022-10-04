@@ -1,10 +1,19 @@
 {
   "expo": {
     "name": "expo-practice",
-    "slug": "expo-practice",
+    "slug": "expo-practice-2",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "android": {
+      "package": "com.wooad47.expoPractice",
+      "googleServicesFile": "./google-services.json"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "756d8423-52d8-49f1-95a9-b86df579ea15"
+      }
+    }
   }
 }

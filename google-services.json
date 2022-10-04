@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "671991609865",
+    "project_id": "expo-practice-bf0e8",
+    "storage_bucket": "expo-practice-bf0e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671991609865:android:10af07c5d246b5ed6756d8",
+        "android_client_info": {
+          "package_name": "com.wooad47.expoPractice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671991609865-k8h67irq31igb92hklrst0j363i7uj8b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2-lpoj2JG_ZDrrpTGw3GmgnqAYUJ0zq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "671991609865-k8h67irq31igb92hklrst0j363i7uj8b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
